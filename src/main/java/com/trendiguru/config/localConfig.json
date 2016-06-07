@@ -1,0 +1,12 @@
+{
+	"mongo": {
+		"domain": "localhost"
+	},
+	"kibana": {
+		"domain": "localhost:9000"
+	},
+	"emails": [{
+		"name": "Jay",
+		"email": "jay@trendiguru.com"
+	}]
+}

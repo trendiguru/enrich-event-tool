@@ -1,0 +1,18 @@
+{
+	"mongo": {
+		"domain":"mongodb1-instance-1"
+	},
+	"kibana": {
+		"domain":"nginx-1:9000"
+	},
+	"emails": [{
+		"name": "Enqrique",
+		"email": "enrique@trendiguru.com"
+	}, {
+		"name": "Kyle",
+		"email": "kyle@trendiguru.com"
+	}, {
+		"name": "Jay",
+		"email": "jay@trendiguru.com"
+	}]
+}
